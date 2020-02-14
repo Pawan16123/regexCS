@@ -17,3 +17,6 @@ Mr Smith
 Ms Davis
 Mrs. Robinson
 Mr. T
+
+
+M([r-s]|rs)\.?\s\w\w*

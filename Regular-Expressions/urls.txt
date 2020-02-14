@@ -2,3 +2,8 @@ https://www.google.com
 http://coreyms.com
 https://youtube.com
 https://www.nasa.gov
+
+\w*[:/]\w*\.?\w*\.?\w*
+https?://(www\.)?(\w+)\.(\w+)
+
+domain name: - $3 

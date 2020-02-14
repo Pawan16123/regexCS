@@ -2,3 +2,5 @@
 CoreyMSchafer@gmail.com
 corey.schafer@university.edu
 corey-321-schafer@my-work.net
+ 
+ [a-zA-Z0-9.-]+@[a-zA-Z-]+\.\w*
